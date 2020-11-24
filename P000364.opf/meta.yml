@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD53276
   title: བོད་ཀྱི་ལོ་རྒྱུས་ལ་དབྱེ་ཞིབ་བྱས་པའི་ཐོག་མའི་དཔྱད་གཏམ
-  volume: ''
+  volume:
+    30bc8615ab854ef3b7a71b2e385e882d:
+      image_group_id: I1PD54416
+      title: Volume 1 of bod kyi lo rgyus la dbye zhib byas pa'i thog ma'i dpyad gtam
+      volume_number: 1
+      total_pages: 294
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་ལོ་རྒྱུས་ལ་དབྱེ་ཞིབ་བྱས་པའི་ཐོག་མའི་དཔྱད་གཏམ
+  author: ''
+  sku: P000364
+  cover: cover.jpg
+  layers:
+  - pagination
